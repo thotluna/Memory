@@ -1,0 +1,14 @@
+.ended {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ended h1 {
+    font-size: 42px;
+    color: #fff;
+}
+.ended h2 {
+    font-size: 38px;
+    color: #fff;
+}
